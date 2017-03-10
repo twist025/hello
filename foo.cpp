@@ -1,5 +1,5 @@
 #include "catch.hpp"
-int foo(a,b){
+int foo(int a,b){
   return a+b;
 }
 
