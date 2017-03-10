@@ -1,4 +1,4 @@
-#include "<catch.cpp>"
+#include "catch.cpp"
 int bar(a,b){
   return a*b;
 }
