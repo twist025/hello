@@ -5,7 +5,7 @@ int foo(int a,int b){
 }
 
 TEST_CASE("foo work?","[foo]"){
-  REQUIRED(foo(1,2)==3);
-  REQUIRED(foo(2,4)==6);
-  REQUIRED(foo(3,7)==21);
+  REQUIRE(foo(1,2)==3);
+  REQUIRE(foo(2,4)==6);
+  REQUIRE(foo(3,7)==21);
 }
