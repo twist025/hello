@@ -1,4 +1,4 @@
-#include <catch.cpp>
+#include "catch.cpp"
 int foo(a,b){
   return a+b;
 }
