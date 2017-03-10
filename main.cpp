@@ -1,7 +1,2 @@
-#include <iostream>
-using namespace std;
-
-int main ()
-{
-cout << "Hello, World!!111";
-}
+#define CATCH_CONFIG_MAIN
+#include "catch.hpp"
