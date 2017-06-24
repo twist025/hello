@@ -6,6 +6,6 @@
 
 - [ ] 1. пусто
 - [x] 2. x
-- [+] 3. +
+- [+] 3. + #коммент
 
 [![Build Status](https://travis-ci.org/twist025/hello.svg?branch=master)](https://travis-ci.org/twist025/hello)
