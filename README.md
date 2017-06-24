@@ -1,7 +1,11 @@
 # hello
+
 =============
+
 ##Im *scared*
+
 -------------
+
 ###i dont know what i do
 
 - [ ] 1. пусто
